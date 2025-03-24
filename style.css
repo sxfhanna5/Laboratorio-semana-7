@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    justify-content: center;
+    text-align: center;
+    margin-top: 160px;
+}
+
+ /*Titulo__________________________________________________________________________________________________________*/
+
+h2 {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+ /*Calculadora______________________________________________________________________________________________________*/
+
+input {
+    display: block;
+    margin: 10px auto;
+    padding: 10px;
+    font-size: 18px;
+    width: 200px;
+    text-align: center;
+}
+
+ /*Botón__________________________________________________________________________________________________________*/
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+ /*Linea de división_______________________________________________________________________________________________*/
+
+hr {
+    width: 50%;
+    margin: 20px auto;
+}
+
+ /*Resultado________________________________________________________________________________________________________*/
+
+#resultado {
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
