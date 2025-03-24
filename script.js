@@ -41,6 +41,6 @@ document.getElementById("calcular").addEventListener("click", function() {
             break;
         default:
             // Operador sea valido
-            resultado.textContent = "RESULTADO: ERROR: Operador No Válido!";
+            resultado.textContent = "RESULTADO: ERROR: ¡Operador No Válido!";
     }
 });
